@@ -1,10 +1,14 @@
-# README
+## Rails Application
+* Rails 6.1.4
+* Ruby 2.6.3
+* Docker
 
-# Application is setup using docker compose
-* To run the application we need to use docker commands
+## Getting Started
 
-* To build the docker image
- `docker-compose build`
- 
-* To run the docker image
-`docker-compose up`
+1. To build the docker image:
+
+        $ docker-compose build
+
+2. To run the docker image
+
+        $ docker-compose up
